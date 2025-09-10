@@ -5,11 +5,10 @@ AVR(ATmega128A) 기반의 선풍기 제어 애플리케이션입니다.
 
 <p align="left">
   <a href="#-프로젝트-개요">개요</a> •
+  <a href="#-skill-stack">Skill Stack</a> •
   <a href="#-기능">기능</a> •
   <a href="#-폴더-구조">폴더 구조</a> •
-  <a href="#-빌드--실행">빌드 & 실행</a> •
-  <a href="#-코드-스니펫">코드 스니펫</a> •
-  <a href="#-라이선스">라이선스</a>
+  <a href="#-기여도">기여도</a>
 </p>
 
 ---
