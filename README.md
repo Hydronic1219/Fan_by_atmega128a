@@ -9,7 +9,8 @@ AVR(ATmega128A) 기반의 선풍기 제어 애플리케이션입니다.
   <a href="#-data-flow">Data Flow</a> •
   <a href="#-기능">기능</a> •
   <a href="#-폴더-구조">폴더 구조</a> •
-  <a href="#-기여도">기여도</a>
+  <a href="#-기여도">기여도</a> •
+  <a href="#-시연-영상">시연 영상</a>
 </p>
 
 ---
