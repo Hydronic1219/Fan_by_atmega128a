@@ -21,6 +21,15 @@ AVR(ATmega128A) 기반의 선풍기 제어 애플리케이션입니다.
 
 ---
 
+## 🛠 Skill Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-EE1F26?style=flat&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
 ## ✨ 기능
 - 메인 모터 구동 및 주기적 처리
 - 서브 모터 제어 및 핸들러 분리
@@ -30,6 +39,7 @@ AVR(ATmega128A) 기반의 선풍기 제어 애플리케이션입니다.
 ---
 
 ## 📁 폴더 구조
+```
 > Fan_project/
 ├─ src/
 │ ├─ ap/
@@ -47,3 +57,18 @@ AVR(ATmega128A) 기반의 선풍기 제어 애플리케이션입니다.
 ├─ main.c
 ├─ Makefile
 └─ README.md
+```
+
+---
+
+## 📊 기여도
+
+
+- 프로젝트 기획  : ███████████████ 100%
+- 코딩         : ███████████████ 100%
+- PPT 제작     : ██████████░░░░░ 60%
+- 하드웨어 제작  : ██░░░░░░░░░░░░░ 10%
+
+
+
+
