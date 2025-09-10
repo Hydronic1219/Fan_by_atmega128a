@@ -27,6 +27,8 @@ AVR(ATmega128A) 기반의 선풍기 제어 애플리케이션입니다.
 ![AVR](https://img.shields.io/badge/AVR-EE1F26?style=flat&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
+
 
 ---
 
@@ -75,6 +77,11 @@ AVR(ATmega128A) 기반의 선풍기 제어 애플리케이션입니다.
 - PPT 제작     : ██████████░░░░░ 60%
 - 하드웨어 제작  : ██░░░░░░░░░░░░░ 10%
 
+---
 
+## 🎥 시연 영상
+[Fan 동작 시연 영상](https://youtube.com/shorts/1hI5zOKwSYM?si=YDrBZZp4fr1kNrV7)
+
+[Fan Button입력 시연](https://youtube.com/shorts/zhNqf4abCzI?si=6mGe7o1zvqryWyl2)
 
 
