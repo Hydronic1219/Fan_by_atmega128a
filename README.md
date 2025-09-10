@@ -125,7 +125,7 @@ int main()
 
 ---
 
-## 🎥 시연 영상
+## 🎥 시연 영상 (youtube)
 [Fan 동작 시연 영상](https://youtube.com/shorts/1hI5zOKwSYM?si=YDrBZZp4fr1kNrV7)
 
 [Fan Button입력 시연](https://youtube.com/shorts/zhNqf4abCzI?si=6mGe7o1zvqryWyl2)
