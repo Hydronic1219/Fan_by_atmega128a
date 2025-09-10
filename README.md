@@ -3,6 +3,50 @@
 AVR(ATmega128A) 기반의 선풍기 제어 애플리케이션입니다.  
 메인/서브 모터 제어, LED 표시, 버튼 입력을 포함합니다.
 
+파일에 ap.c와 main.c가 없음을 확인 할 수 있는데 두 코드는 다음과 같이 구성하면 됩니다.
+
+ap.c Code
+
+```c
+
+#include "ap.h"
+
+void apMain()
+{
+    myledInit();
+    led8Init();
+    mainMotorInit();
+    subMotorInit();
+    DDRG &= ~((1 << 0) | (1 << 1) | (1 << 2)); // PG포트 0번 1번 2번 버튼
+    PORTG |= (1 << 0) | (1 << 1) | (1 << 2);   //
+    while (1)
+    {
+        mainMotorHandler();
+        handleSubMotor();
+    }
+}
+```
+
+선풍기 Main.c
+
+```c
+
+#include "src/ap/ap.h"
+
+int main()
+{
+    
+    apInit();
+    
+    apMain();
+
+    while (1)
+    {
+    }
+}
+
+```
+
 <p align="left">
   <a href="#-프로젝트-개요">개요</a> •
   <a href="#-skill-stack">Skill Stack</a> •
